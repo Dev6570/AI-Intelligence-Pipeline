@@ -18,3 +18,5 @@ groq
 openai
 pytest
 pytest-asyncio
+pymongo
+python-dotenv

@@ -1,0 +1,13 @@
+{
+    "recordType": "STARTUP",
+    "source_url": "https://example.com/company-profile",
+    "total_records": 1,
+    "records": [
+        {
+            "companyName": "Example AI Technologies",
+            "description": "This is sample test data for checking the LLM extraction engine. The company develops artificial intelligence software for business automation.",
+            "employeeCount": 25,
+            "sourceUrl": "https://example.com/company-profile"
+        }
+    ]
+}

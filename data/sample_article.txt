@@ -1,0 +1,8 @@
+Company: Example AI Technologies
+Description:
+This is sample test data for checking the LLM extraction engine.
+The company develops artificial intelligence software
+for business automation.
+Employee count: 25
+Source URL:
+https://example.com/company-profile
